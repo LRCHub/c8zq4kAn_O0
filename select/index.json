@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "back to friends",
+  "base_artist": "sombr",
+  "createdAt": "2026-02-16T08:32:11.331334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back to Friends",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/01_Back_to_Friends_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back to Friends",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/02_Back_to_Friends_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back to Friends",
+      "artist": "Lauren Spencer-Smith",
+      "has_synced": true,
+      "path": "select/03_Back_to_Friends_Lauren_Spencer-Smith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back To Friends",
+      "artist": "Lauren Spencer‐Smith",
+      "has_synced": true,
+      "path": "select/04_Back_To_Friends_Lauren_Spencer‐Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "back to friends",
+      "artist": "sombr",
+      "has_synced": true,
+      "path": "select/05_back_to_friends_sombr.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "back to friends",
+      "artist": "sombr",
+      "has_synced": true,
+      "path": "select/06_back_to_friends_sombr.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "sombr - back to friends (official audio)",
+      "artist": "sombr",
+      "has_synced": true,
+      "path": "select/07_sombr_-_back_to_friends_(official_audio)_sombr.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "back to friends (Paused)",
+      "artist": "sombr",
+      "has_synced": true,
+      "path": "select/08_back_to_friends_(Paused)_sombr.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "sombr - back to friends",
+      "artist": "RockHype",
+      "has_synced": true,
+      "path": "select/09_sombr_-_back_to_friends_RockHype.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "sombr - back to friends",
+      "artist": "sombr",
+      "has_synced": true,
+      "path": "select/10_sombr_-_back_to_friends_sombr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "back to friends",
+      "artist": "sombr",
+      "has_synced": false,
+      "path": "select/pl_01_back_to_friends_sombr.txt"
+    }
+  ]
+}
