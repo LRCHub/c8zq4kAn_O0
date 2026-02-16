@@ -1,0 +1,42 @@
+# sombr – back to friends
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.10] Touch my body tender
+[00:27.52] 'Cause the feeling makes me weak
+[00:33.43] Kicking off the covers
+[00:37.94] I see the ceiling while you're looking down at me
+[01:02.44] 
+[00:44.04] How can we go back to being friends
+[00:48.91] When we just shared a bed?
+[00:54.26] How can you look at me and pretend
+[00:59.18] I'm someone you've never met?
+[01:13.68] 
+[01:04.57] It was last December
+[01:08.90] You were layin' on my chest
+[01:14.87] I still remember
+[01:19.15] I was scared to take a breath, didn't want you to move your head
+[01:51.15] 
+[01:25.48] How can we go back to being friends
+[01:30.34] When we just shared a bed? (Yeah)
+[01:35.82] How can you look at me and pretend
+[01:40.42] I'm someone you've never met?
+[01:54.92] 
+[01:45.88] The devil in your eyes
+[01:52.67] Won't deny the lies you've sold
+[01:58.74] I'm holding on too tight
+[02:02.67] While you let go, this is casual
+[02:18.67] 
+[02:17.05] How can we go back to being friends
+[02:22.14] When we just shared a bed? (Yeah)
+[02:27.40] How can you look at me and pretend
+[02:32.16] I'm someone you've never met?
+[02:46.66] 
+[02:37.71] How can we go back to being friends
+[02:42.57] When we just shared a bed? (Yeah)
+[02:48.03] How can you look at me and pretend
+[02:52.88] I'm someone you've never met?
+[03:07.38] 
+[03:00.21] I'm someone you've never met (yeah)
+```
